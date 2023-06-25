@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.video-container video{
+    width: 300px;
+}
+
+
+
